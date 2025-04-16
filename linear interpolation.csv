@@ -1,4 +1,4 @@
-"city_id","city_name","year","pop","density_pop","unemp_rate","gdp_prousd","peoplekilled_in_roadaccident","deaths_roadaccidents","nationals","nationals_.","eu_foreigners","eu_foreigners_.","extraeu_foreigners","extraeu_foreigners_.","nativeborn","nativeborn_.","cars","cars_perc","Capital","cold_weather","URSS_Influence","Closeness","Culural_affinity","X"
+"city_id","city_name","year","pop","density_pop","unemp_rate","gdp_prousd","peoplekilled_in_roadaccident","deaths_roadaccidents","nationals","nationals_.","eu_foreigners","eu_foreigners_.","extraeu_foreigners","extraeu_foreigners_.","nativeborn","nativeborn_.","cars","cars_perc","Capital","cold_weather","URSS_Influence","Closeness","Cultural_affinity","X"
 1,"Tallinn",2000,400378,2518,NA,24973,NA,NA,284684,"71",569,0.14,111334,27.81,NA,NA,119632,29.88,1,1,1,1,1,NA
 1,"Tallinn",2001,399685,2514,13,26849,0.65,26,287560.333333333,"",976.75,0.24125,102280.625,25.545,NA,NA,109903,27.5525,1,1,1,1,1,NA
 1,"Tallinn",2002,398434,2506,12,28989,0.603333333333333,24,290436.666666667,"",1384.5,0.3425,93227.25,23.28,NA,NA,100174,25.225,1,1,1,1,1,NA
